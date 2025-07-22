@@ -1,4 +1,5 @@
 # HR-Dashboard
+dataset use-
 ##project objective 
 how to analyze HR (Human Resources) data and create stunning dashboards using Power BI
 ##Questions(KPIs)
@@ -23,3 +24,5 @@ how to analyze HR (Human Resources) data and create stunning dashboards using Po
 7) Advanced DAX calculations like cumulative headcount, leave balance more than 20 days 
 9) Designing a monthly HR dashboard with Power BI
 10) Working with "NEW" card visual in Power BI
+
+Dashboard-https://github.com/Rsjsuccess913/HR-Dashboard/blob/44316591a75caeca75ca9439fc27706538051e83/HR%20Dashboard.png
