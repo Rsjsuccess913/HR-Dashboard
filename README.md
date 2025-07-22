@@ -1,7 +1,9 @@
 # HR-Dashboard
 dataset used-https://github.com/Rsjsuccess913/HR-Dashboard/blob/0798ac21d80044ad5c57b955491a97beef46f8f5/hr-data.xlsx
+
 ##project objective 
 how to analyze HR (Human Resources) data and create stunning dashboards using Power BI
+
 ##Questions(KPIs)
 1) How many people are in each job?
 2) Gender break-down of the staff
