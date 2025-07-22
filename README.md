@@ -1,10 +1,10 @@
-# HR-Dashboard
+ HR-Dashboard
 dataset used-https://github.com/Rsjsuccess913/HR-Dashboard/blob/0798ac21d80044ad5c57b955491a97beef46f8f5/hr-data.xlsx
 
-##project objective 
+project objective 
 how to analyze HR (Human Resources) data and create stunning dashboards using Power BI
 
-##Questions(KPIs)
+Questions(KPIs)
 1) How many people are in each job?
 2) Gender break-down of the staff
 3) Age spread of the staff
@@ -16,7 +16,7 @@ how to analyze HR (Human Resources) data and create stunning dashboards using Po
 9) Leave balance analysis
 10) Quick HR Dashboard
 
-##process
+process
 1) Loading data into Power BI and cleaning it with Power Query
 2) Creating HR metrics like headcount, avg. leave balance, avg. salary etc. with Power Pivot
 3) Adding columns to the data (like Employee's first name, age group etc.)
